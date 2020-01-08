@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="powermanager"> Power\nManager</string>
+    <string name="set">网络连接设置</string>
+    <string name="li_mode">连接模式:</string>
+    <string name="tcp_client">TCP客戶端</string>
+    <string name="de_ip">目的 I P:</string>
+    <string name="ip">IP地址</string>
+    <string name="de_poet">目的端口:</string>
+    <string name="port">端口号</string>
+    <string name="connect">连接</string>
+    <string name="out">断开</string>
+    <string name="send_set">定时设置</string>
+    <string name="countdown">定时时长：</string>
+    <string name="countdown_tip">00:00:00</string>
+    <string name="time">周期:</string>
+    <string name="edtauto">00:00</string>
+    <string name="set_countdowntime">设置</string>
+    <string name="set_cancel">取消</string>
+    <string name="device_one">设备1</string>
+    <string name="device_two">设备2</string>
+    <string name="device_three">设备3</string>
+    <string name="all_start">全部开启</string>
+    <string name="all_stop">全部关闭</string>
+    <string name="profile1">中山大学新华学院</string>
+    <string name="profile2">16电子A班</string>
+    <string name="profile3">谭海鹏</string>
+    <string name="profile4">16051036</string>
+
+</resources>

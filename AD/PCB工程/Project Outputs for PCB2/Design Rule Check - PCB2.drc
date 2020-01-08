@@ -1,0 +1,83 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\PENG\Desktop\Development\利用WIFI技术实现实验室电源远程管理系统设计\4-PCB图（源文件+照片版）\PCB工程文件\PCB2\PCB2.PcbDoc
+Date     : 2019/12/9
+Time     : 21:30:22
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetR6_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP2_4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP1_4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP9_4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP12_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP10_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('NetP8_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('3.3V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('N'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.2mm) (Max=1.2mm) (Preferred=1.2mm) (InNet('L'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.7mm) (Max=0.7mm) (Preferred=0.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.25mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.25mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

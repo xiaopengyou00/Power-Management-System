@@ -1,0 +1,19 @@
+Added Component: Designator=P1(Relay)
+Added Component: Designator=P2(Relay)
+Added Component: Designator=P9(Relay)
+Added Pin To Net: NetName=NetD1_1 Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=L Pin=P1-3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetD2_1 Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=L Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetD9_1 Pin=P9-1
+Added Pin To Net: NetName=VCC Pin=P9-2
+Added Pin To Net: NetName=L Pin=P9-3
+Added Pin To Net: NetName=NetP9_4 Pin=P9-4
+Added Member To Class: ClassName=PCB2 Member=Component P1 Relay-5
+Added Member To Class: ClassName=PCB2 Member=Component P2 Relay-5
+Added Member To Class: ClassName=PCB2 Member=Component P9 Relay-5
+Added Room: Name=PCB2

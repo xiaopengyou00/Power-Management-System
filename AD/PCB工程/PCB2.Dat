@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB2.PrjPcb|ReportField=ProjectFullPath~C:\Users\PENG\Desktop\Development\利用WIFI技术实现实验室电源远程管理系统设计\4-PCB图（源文件+照片版）\PCB工程文件\PCB2\PCB2.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~16:34:39|ReportField=ReportDate~2019/12/9|ReportField=ReportDateTime~2019/12/9 16:34:39|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/12/9|ReportField=CurrentTime~16:34:35|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\PENG\Desktop\Development\利用WIFI技术实现实验室电源远程管理系统设计\4-PCB图（源文件+照片版）\PCB工程文件\PCB2\PCB2.SchDoc|ReportField=DocumentName~PCB2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~谭海鹏|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/12/9|ReportField=Organization~|ReportField=ProjectName~PCB2.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~实验室电源远程管理系统|ReportField=DataSourceFileName~PCB2.PrjPcb|ReportField=DataSourceFullPath~C:\Users\PENG\Desktop\Development\利用WIFI技术实现实验室电源远程管理系统设计\4-PCB图（源文件+照片版）\PCB工程文件\PCB2\PCB2.PrjPcb
+1|Beep|蜂鸣器|Beep1|Bell|Bell|1
+2|CAP-A|电解电容|C1, C3, C5, C7|Cap|CAP-A|4
+3|CAP-B|瓷片电容|C2, C4, C6, C8|Cap|CAP-B|4
+4|Diode|整流二极管|D1, D2, D6, D7, D8, D9, D11|Diode|Diode|7
+5|LED|LED|D3, D4, D5, D10|LED|LED|4
+6|Relay-5|5针继电器|P1, P2, P9|Relay|Relay-5|3
+7|Header 2|两孔端子|P3, P8, P10, P12|HDR1X2|Header 2|4
+8|开关|开关|P4|Switch|Switch|1
+9|电源插座|DC电源插口|P5|DC|POWER|1
+10|串口调试接口|Header, 3-Pin|P7|HDR1X3|Header 3|1
+11|ESP8266|WIFI模块（8针）|P11|ESP8266|ESP8266|1
+12|NPN|NPN|Q1, Q2, Q4|Triode|NPN|3
+13|PNP|PNP|Q3|Triode|PNP|1
+14|RES|电阻|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14|RES|RES|14
+15|TA1005-1M|电流互感器|T1, T3, T4|Transforme|Transforme-A|3
+16|TV1005-1M|电压互感器|T2|Transforme|Transforme-V|1
+17|Optoisolator|光耦隔离器|U1, U2, U4|DIP-4|Optoisolator|3
+18|STM32F103C8T6|STM32最小系统（40针）|U3|STM32F103C8T6|STM32F103C8T6|1

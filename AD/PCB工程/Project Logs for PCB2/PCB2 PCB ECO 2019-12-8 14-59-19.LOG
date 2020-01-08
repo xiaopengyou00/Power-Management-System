@@ -1,0 +1,23 @@
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P8(HDR1X2)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P12(HDR1X2)
+Added Pin To Net: NetName=L Pin=P3-1
+Added Pin To Net: NetName=N Pin=P3-2
+Added Pin To Net: NetName=N Pin=P8-2
+Added Pin To Net: NetName=N Pin=P10-2
+Added Pin To Net: NetName=N Pin=P12-2
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=T1-2
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=T3-2
+Added Net: Name=NetP10_1
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_1 Pin=T4-2
+Added Net: Name=NetP12_1
+Added Member To Class: ClassName=PCB2 Member=Component P3 Header 2
+Added Member To Class: ClassName=PCB2 Member=Component P8 Header 2
+Added Member To Class: ClassName=PCB2 Member=Component P10 Header 2
+Added Member To Class: ClassName=PCB2 Member=Component P12 Header 2
+Added Room: Name=PCB2

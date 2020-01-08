@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   2019/12/9  16:51:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB2-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             16        PTH        9.23inch (234.32mm)
+T2      32mil (0.8mm)                                             Round             34        PTH        20.97inch (532.54mm)
+T3      32mil (0.813mm)                                           Round             8         PTH        4.81inch (122.25mm)
+T4      35mil (0.9mm)                                             Round             85        PTH        25.70inch (652.69mm)
+T5      39mil (1mm)                                               Round             15        PTH        6.69inch (169.81mm)
+T6      41mil (1.05mm)                                            Round             3         PTH        0.37inch (9.51mm)
+T7      42mil (1.067mm)                                           Round             16        PTH        12.07inch (306.52mm)
+T8      47mil (1.2mm)                                             Round             14        PTH        9.34inch (237.16mm)
+T9      122mil (3.1mm)                                            Round             4         PTH        14.80inch (376.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              195
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=L Pin=P3-1
+Removed Pin From Net: NetName=N Pin=P3-2
+Removed Pin From Net: NetName=N Pin=P8-2
+Removed Pin From Net: NetName=N Pin=P10-2
+Removed Pin From Net: NetName=N Pin=P12-2
+Removed Member From Class: ClassName=PCB2 Member=P3
+Removed Member From Class: ClassName=PCB2 Member=P8
+Removed Member From Class: ClassName=PCB2 Member=P10
+Removed Member From Class: ClassName=PCB2 Member=P12
+Added Room: Name=PCB2

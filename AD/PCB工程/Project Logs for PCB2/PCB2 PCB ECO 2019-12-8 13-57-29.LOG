@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO-92 New Footprint=Triode
+Change Component Footprint: Designator=Q4 Old Footprint=TO-92 New Footprint=Triode
+Change Component Library : Designator=Q3 Old Library=PCB2.SCHLIB New Library=‘≠¿ÌÕºø‚.SCHLIB
+Added Component: Designator=Q?(Triode)
+Added Pin To Net: NetName=PB6 Pin=Q?-2
+Added Member To Class: ClassName=PCB2 Member=Component Q? NPN

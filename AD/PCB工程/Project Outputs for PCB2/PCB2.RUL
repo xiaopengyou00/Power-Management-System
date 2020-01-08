@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: C:\Users\PENG\Desktop\Development\利用WIFI技术实现实验室电源远程管理系统设计\4-PCB图（源文件+照片版）\PCB工程文件\PCB2\PCB2.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=27.56
+RuleKind=Width|RuleName=L|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=N|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=3.3V|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=8_1|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=10_1|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=12_1|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=9_4|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=1_4|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=2_4|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=6_2|Scope=Board|Minimum=47.24

@@ -1,0 +1,5 @@
+Change Component Library : Designator=P3 Old Library=PCB2.SCHLIB New Library=原理图库.SCHLIB
+Change Component Library : Designator=P8 Old Library=PCB2.SCHLIB New Library=原理图库.SCHLIB
+Change Component Library : Designator=P10 Old Library=PCB2.SCHLIB New Library=原理图库.SCHLIB
+Change Component Library : Designator=P12 Old Library=PCB2.SCHLIB New Library=原理图库.SCHLIB
+Added Room: Name=PCB2

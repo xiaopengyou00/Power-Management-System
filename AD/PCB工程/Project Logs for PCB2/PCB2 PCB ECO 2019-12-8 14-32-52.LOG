@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Beep1-2
+Removed Pin From Net: NetName=PA2 Pin=P6-1
+Removed Pin From Net: NetName=PA3 Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=GND Pin=P7-3
+Removed Pin From Net: NetName=GND Pin=P11-8
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=U3-20
+Removed Member From Class: ClassName=PCB2 Member=P6
+Change Net Name : Old Net Name=GND New Net Name=GND¢Ù
+Added Pin To Net: NetName=GND Pin=Beep1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GND¢Ú Pin=P7-3
+Added Pin To Net: NetName=GND¢Ú Pin=P11-8
+Added Pin To Net: NetName=GND¢Ú Pin=Q1-1
+Added Pin To Net: NetName=GND¢Ú Pin=Q2-1
+Added Pin To Net: NetName=GND¢Ú Pin=Q4-1
+Added Pin To Net: NetName=GND¢Ú Pin=U3-20
+Added Net: Name=GND¢Ú
+Added Room: Name=PCB2

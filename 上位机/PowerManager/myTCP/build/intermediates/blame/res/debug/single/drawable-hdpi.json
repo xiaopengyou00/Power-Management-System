@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\APP\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_off_24dp.png",
+        "source": "D:\\APP\\PowerManager\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_off_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_on_24dp.png",
+        "source": "D:\\APP\\PowerManager\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_on_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\6\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_off_24dp.png",
+        "source": "D:\\APP\\6\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_off_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_on_24dp.png",
+        "source": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_on_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\7\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_off_24dp.png",
+        "source": "D:\\APP\\7\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_off_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\8\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_on_24dp.png",
+        "source": "D:\\APP\\8\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_on_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\8\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_off_24dp.png",
+        "source": "D:\\APP\\8\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_off_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_off_24dp.png",
+        "source": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_off_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\6\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_on_24dp.png",
+        "source": "D:\\APP\\6\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_on_24dp.png"
+    },
+    {
+        "merged": "D:\\APP\\7\\myTCP\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light_on_24dp.png",
+        "source": "D:\\APP\\7\\myTCP\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light_on_24dp.png"
+    }
+]

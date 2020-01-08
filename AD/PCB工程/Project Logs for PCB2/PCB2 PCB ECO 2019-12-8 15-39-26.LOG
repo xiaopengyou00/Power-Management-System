@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND¢Ù Pin=P5-1
+Removed Pin From Net: NetName=NetP4_2 Pin=P5-3
+Added Pin To Net: NetName=NetP4_2 Pin=P5-1
+Added Pin To Net: NetName=GND¢Ù Pin=P5-2
+Added Pin To Net: NetName=GND¢Ù Pin=P5-3
+Added Room: Name=PCB2

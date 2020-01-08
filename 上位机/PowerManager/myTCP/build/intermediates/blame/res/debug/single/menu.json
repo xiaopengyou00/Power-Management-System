@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\APP\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\APP\\PowerManager\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\APP\\6\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\APP\\6\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\APP\\8\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\APP\\8\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PENG\\Desktop\\TCP\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "C:\\Users\\PENG\\Desktop\\TCP\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\APP\\7\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\APP\\7\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "C:\\Users\\PENG\\Desktop\\Development\\利用WIFI技术实现实验室电源远程管理系统设计\\1-上位机\\PowerManager\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "E:\\android studio\\TCP\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "E:\\android studio\\TCP\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\APP\\TCP\\myTCP\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\APP\\TCP\\myTCP\\src\\main\\res\\menu\\option_menu.xml"
+    }
+]
